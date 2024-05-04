@@ -1,0 +1,28 @@
+#Foto {
+    display: block;
+}   
+
+.hidden {
+    visibility: hidden;
+}
+
+.visibility {
+    visibility:visible;
+}
+
+.element {
+    width: 200px;
+    height: 200px;
+}
+
+.größermachen{
+    width: 500px;
+    height: 500px; 
+    font-size: 500px;
+}
+
+.kleinermachen{
+    width: 1000px;
+    height: 1000px; 
+    font-size: 1000px;
+}
